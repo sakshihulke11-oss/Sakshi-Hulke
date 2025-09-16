@@ -47,5 +47,4 @@ This repository contains the following files:
 
 ## 📌 How to Use
 1. Clone this repository:
-   `bash
-   git clone https://github.com/sakshihulke11-oss/credit-card-dashboard.git
+   https://github.com/sakshihulke11-oss/Sakshi-Hulke
