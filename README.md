@@ -1,4 +1,4 @@
-# Sakshi-Hulke
+# CREDIT CARD DATA ANALYSIS
 Description: Interactive Power BI dashboard with SQL &amp; Excel for analyzing credit card customers, revenue, and delinquency insights.
 
  # 📊 Credit Card Data 
